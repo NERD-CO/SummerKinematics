@@ -1,0 +1,15 @@
+dataset,movetype,moveN,BeginF,EndF
+c1,hand_OC,1,38,21
+c1,hand_OC,2,74,55
+c1,hand_OC,3,110,91
+c1,hand_OC,4,147,129
+c1,hand_OC,5,258,163
+c1,hand_PS,1,674,712
+c1,hand_PS,2,807,924
+c1,hand_PS,3,1014,982
+c1,arm_EF,1,1195,1242
+c1,arm_EF,2,1288,1333
+c1,arm_EF,3,1382,1427
+c1,arm_EF,4,1478,1514
+c1,arm_EF,5,1559,1609
+c1,arm_EF,6,1649,1699
