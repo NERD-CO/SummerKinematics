@@ -1,9 +1,0 @@
-dataset,movetype,moveN,BeginF,EndF
-b3,hand_PS,1,345,322
-b3,hand_PS,2,394,367
-b3,hand_PS,3,563,446
-b3,arm_EF,1,615,655
-b3,arm_EF,2,699,748
-b3,arm_EF,3,779,834
-b3,arm_EF,4,866,924
-b3,arm_EF,5,955,1006
